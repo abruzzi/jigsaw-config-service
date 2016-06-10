@@ -1,0 +1,5 @@
+jigsaw-config.i*
+out/
+build/
+.gradle/
+.mvn/
